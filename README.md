@@ -18,7 +18,7 @@ I'm a passionate **Full-Stack Developer** specializing in **PHP (Laravel)** and 
 ---
 
 ### 🔭 Current Projects
-- **Food Order Management System** – A food order web application built with pure PHP with MVC framework. 
+- **Food Order Management System** – A food order web application built with pure PHP & MVC framework. 
 
 
 
