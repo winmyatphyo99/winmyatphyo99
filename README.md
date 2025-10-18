@@ -1,25 +1,25 @@
 # Hi there 👋, I'm Wint Myat Phyo
 
 ### 👨‍💻 About Me
-I'm a passionate **Computer Science Student** and a **Full-Stack Developer** exploring modern web development with **PHP (Laravel)**, **JavaScript**, **Docker**, and more. I enjoy building projects, contributing to open source, and learning new technologies.  
+I'm a passionate and dedicate a **Full-Stack Developer** exploring modern web development with **PHP (Laravel)**, **JavaScript**, **Docker**, and more. I enjoy building projects, contributing to open source, and learning new technologies.  
 
-- 🌱 I’m currently learning **Advanced Laravel, Docker & Kubernetes**  
+- 🌱 I’m currently learning **Advanced Laravel, Docker**  
 - 💬 Ask me about **PHP, Laravel, JavaScript, Git, GitHub**  
-- 📫 How to reach me: [Email](mailto:your.email@example.com)  
+- 📫 How to reach me: [Email](mailto:winmyatphyo5@gmail.com)  
 
 ---
 
 ### 🛠️ Skills & Tech Stack
 **Languages:** PHP, JavaScript, HTML, CSS, SQL  
 **Frameworks:** Laravel, Bootstrap, Tailwind CSS  
-**Databases:** MySQL, SQLite  
+**Databases:** MySQL 
 **Tools:** Git, Docker, Composer, VS Code  
 
 ---
 
 ### 🔭 Current Projects
-- **Invoice Management System** – Restaurant web application built with Laravel and PHP MVC  
-- **Kanban Management Tool** – Task tracking system using Laravel & Docker  
+- **Food Order Management System** – Restaurant web application built with Laravel and PHP MVC  
+
 
 ---
 
