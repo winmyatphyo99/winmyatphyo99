@@ -17,14 +17,24 @@ I'm a passionate **Full-Stack Developer** specializing in **PHP (Laravel)** and 
 
 ---
 
-### 🔭 Current Project
-- **Food Order Management System** – A restaurant web application built with Laravel and PHP MVC
+### 🔭 Current Projects
+- **Food Order Management System** – A restaurant web application built with Laravel and PHP MVC  
+- **Portfolio Website** – Personal portfolio showcasing projects and skills  
+- **Open Source Contributions** – Contributing to Laravel packages and JavaScript libraries  
 
 ---
 
 ### 📊 GitHub Stats
 ![WintMyatPhyo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WintMyatPhyo&show_icons=true&theme=radical&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WintMyatPhyo&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WintMyatPhyo&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WintMyatPhyo&theme=radical)
+
+---
+
+### 🎯 Currently Learning
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
 
 ---
 
