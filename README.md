@@ -1,5 +1,10 @@
 # Hi there 👋, I'm Wint Myat Phyo
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;PHP+%7C+Laravel+%7C+JavaScript;Open+Source+Enthusiast+🚀" alt="Typing SVG" />
+</p>
+
+
 ### 👨‍💻 About Me
 I'm a passionate **Full-Stack Developer** specializing in **PHP (Laravel)** and modern web development. I love building impactful projects, contributing to open source, and continuously learning new technologies.  
 
