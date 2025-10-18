@@ -19,8 +19,8 @@ I'm a passionate **Full-Stack Developer** specializing in **PHP (Laravel)** and 
 
 ### 🔭 Current Projects
 - **Food Order Management System** – A restaurant web application built with Laravel and PHP MVC  
-- **Portfolio Website** – Personal portfolio showcasing projects and skills  
-- **Open Source Contributions** – Contributing to Laravel packages and JavaScript libraries  
+
+
 
 ---
 
