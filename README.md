@@ -1,8 +1,7 @@
 
-
+# Hi there 👋, I'm Wint Myat Phyo
 <p align="center">
-  # Hi there 👋, I'm Wint Myat Phyo
- <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Frontend+%26+Backend+Developer;Lifelong+Learner+%F0%9F%93%9A" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Frontend+%26+Backend+Developer;Lifelong+Learner+%F0%9F%93%9A" />
 </p>
 
 
