@@ -13,12 +13,12 @@ I'm a passionate **Full-Stack Developer** specializing in **PHP (Laravel)** and 
 **Languages:** PHP, JavaScript, HTML, CSS, SQL  
 **Frameworks & Libraries:** Laravel, Bootstrap, Tailwind CSS  
 **Databases:** MySQL  
-**Tools & Platforms:** Git, Docker, Composer, VS Code  
+**Tools & Platforms:** Git,Figma,Postman, Docker, Composer, VS Code  
 
 ---
 
 ### 🔭 Current Projects
-- **Food Order Management System** – A restaurant web application built with Laravel and PHP MVC  
+- **Food Order Management System** – A food order web application built with pure PHP with MVC framework. 
 
 
 
