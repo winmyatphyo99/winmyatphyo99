@@ -5,7 +5,7 @@ I'm a passionate and dedicate a **Full-Stack Developer** exploring modern web de
 
 - 🌱 I’m currently learning **Advanced Laravel, Docker**  
 - 💬 Ask me about **PHP, Laravel, JavaScript, Git, GitHub**  
-- 📫 How to reach me: [Email](mailto:winmyatphyo5@gmail.com)  
+- 📫 How to reach me:(mailto:winmyatphyo5@gmail.com)  
 
 ---
 
