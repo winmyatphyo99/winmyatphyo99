@@ -13,7 +13,7 @@ I'm a passionate **Full-Stack Developer** specializing in **PHP (Laravel)** and 
 **Languages:** PHP, JavaScript, HTML, CSS, SQL  
 **Frameworks & Libraries:** Laravel, Bootstrap, Tailwind CSS  
 **Databases:** MySQL  
-**Tools & Platforms:** Git,Figma,Postman, Docker, Composer, VS Code  
+**Tools & Platforms:** Git,Figma,Mockflow,Draw.io,Postman, Docker, Composer, VS Code  
 
 ---
 
