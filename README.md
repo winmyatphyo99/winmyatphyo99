@@ -51,7 +51,7 @@ I'm a passionate **Full-Stack Developer** specializing in **PHP (Laravel)** and 
 ---
 
 ### 📫 Connect with Me
-[![LinkedIn](www.linkedin.com/in/wint-myat-phyo-416986397)  
+[![LinkedIn]([www.linkedin.com/in/wint-myat-phyo-416986397](https://www.linkedin.com/in/wint-myat-phyo-416986397/?trk=public-profile-join-page))  
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/WintMyatPhyo)
 
