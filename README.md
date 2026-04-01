@@ -1,121 +1,109 @@
 # Wint Myat Phyo
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=900&color=2F80ED&center=true&vCenter=true&width=900&lines=Full-Stack+Laravel+Developer;Backend+System+Builder;API+%26+Database+Architect;Clean+Code+%7C+Scalable+Systems" />
-</p>
-
-<p align="center">
-  <b>Building scalable backend systems with Laravel, PHP, and modern web architecture.</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=900&color=1F6FEB&center=true&vCenter=true&width=900&lines=Backend+Engineer+%7C+Laravel+Architect;API+Design+%7C+System+Design+Focused;Database+%26+Scalable+Web+Systems" />
 </p>
 
 ---
 
-## 🧠 Engineering Focus
+## 🧠 Engineering Profile
 
-I design and build **backend-heavy, database-driven web systems** with a focus on:
+Backend-focused developer specializing in **scalable web systems, API architecture, and database-driven applications**.
 
-- Scalable architecture (Service Layer, Repository Pattern)
-- Clean API design (RESTful principles)
-- Secure authentication systems
-- Performance-aware database structure
-- Maintainable, production-grade Laravel applications
-
----
-
-## 🎯 What I Bring to a Team
-
-- Strong understanding of MVC + backend architecture
-- Ability to design systems from scratch (not just UI work)
-- Experience building real-world CRUD + workflow systems
-- Git-based collaboration mindset
-- Focus on maintainability over quick hacks
+I focus on:
+- System design over UI decoration
+- Maintainability over quick implementation
+- Clean separation of concerns (Service / Repository patterns)
+- Real-world workflow systems (auth, roles, transactions, CRUD pipelines)
 
 ---
 
-## ⚙️ Tech Stack
+## 🏗 Core Engineering Skills
 
-**Backend Engineering**
+### Backend Architecture
+- Laravel MVC + Service Layer Design
+- RESTful API Architecture
+- Authentication & Authorization Systems
+- Role-Based Access Control (RBAC)
+
+### Database Engineering
+- MySQL schema design & normalization
+- Query optimization & indexing strategies
+- Relationship modeling (1–M, M–M systems)
+
+### System Design Thinking
+- Modular application structure
+- Separation of business logic
+- Scalable folder architecture
+- Maintainable codebase design
+
+---
+
+## ⚙️ Tech Stack (Production-Oriented)
+
+**Backend**
 - PHP (Advanced)
-- Laravel (MVC, API, Middleware, Authentication)
-- RESTful API Development
+- Laravel (API + MVC + Middleware)
 
 **Frontend Integration**
-- HTML5 / CSS3
+- HTML5, CSS3
 - JavaScript (Vanilla)
 - Bootstrap / Tailwind
 
-**Database Engineering**
-- MySQL (Indexing, Schema Design, Optimization)
+**Database**
+- MySQL (Optimized relational design)
 
-**DevOps & Tools**
-- Docker
-- Git & GitHub
-- Postman
-- Composer / NPM
-- VS Code
-- Figma / Draw.io
+**Dev Tools**
+- Git / GitHub (team workflows)
+- Docker (development environments)
+- Postman (API testing)
+- Composer
 
 ---
 
-## 📌 Featured Systems
+## 🧩 Engineering Projects (SYSTEMS, NOT APPS)
 
 ### 🛒 Food Order Management System
-- Built with PHP (MVC Architecture)
-- Role-based system (Admin / User)
-- Order lifecycle management (Cart → Checkout → Tracking)
-- Clean separation of business logic and presentation layer
+A structured backend system implementing:
+- Role-based authentication (Admin/User)
+- Order lifecycle pipeline (cart → checkout → processing)
+- Modular MVC architecture
+- Database-driven workflow management
 
 ---
 
 ### 🎓 Training Management System
-- User enrollment & session tracking system
-- Role-based access control
-- Modular backend design
-- Database-driven scheduling logic
+A role-based scheduling and enrollment system featuring:
+- User registration & session tracking
+- Access control layers
+- Structured relational database design
+- Modular Laravel architecture
 
 ---
 
-## 📊 GitHub Performance
+## 📊 Engineering Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=winmyatphyo99&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=winmyatphyo99&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=winmyatphyo99&layout=compact&theme=radical&hide_border=true" />
-</p>
-
 ---
 
-## 🐍 Contribution Activity
+## 🧭 Current Engineering Focus
 
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🚧 Currently Building
-
-- Advanced Laravel architecture (Service + Repository Pattern)
-- Scalable REST API systems
-- Dockerized development environments
-- Real-world system design practice
+- Scalable Laravel architecture (Service / Repository pattern)
+- API-first backend design
+- Docker-based development workflow
+- System design fundamentals (real-world architecture thinking)
 
 ---
 
 ## 📬 Contact
 
-- 📧 Email: **winmyatphyo5@gmail.com**
-- 💼 LinkedIn: https://www.linkedin.com/in/wint-myat-phyo-416986397
-- 🧑‍💻 GitHub: https://github.com/WintMyatPhyo
+- Email: winmyatphyo5@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/wint-myat-phyo-416986397  
+- GitHub: https://github.com/WintMyatPhyo  
 
 ---
 
-## 🧭 Philosophy
-
-> “I build systems that are simple in design, strong in structure, and scalable in production.”
+> “I focus on building backend systems that scale, not just applications that work.”
