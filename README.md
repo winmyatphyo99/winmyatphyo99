@@ -1,4 +1,4 @@
-# Wint Myat Phyo
+# Win Myat Phyo
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=900&color=2F80ED&center=true&vCenter=true&width=900&lines=Full-Stack+Laravel+Developer;Backend+System+Builder;API+%26+Database+Architect;Clean+Code+%7C+Scalable+Systems" />
